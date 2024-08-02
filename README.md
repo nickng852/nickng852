@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Nick.
 
 <!--
 **nickng852/nickng852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
