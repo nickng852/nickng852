@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<h3>Tech Stack</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,emotion,styledcomponents,materialui,bootstrap,react,nextjs,jquery,nodejs,express,prisma,git,github,bitbucket,vite,npm,pnpm,linux,ubuntu,nginx,vercel,firebase,heroku,wordpress,figma,ps,pr" />
   </a>
 </p>
