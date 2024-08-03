@@ -27,7 +27,17 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3>Tech Stack</h3>
+<br />
+
+- 🔭 I’m currently working on [fotmob-clone](https://github.com/nickng852/fotmob-clone)
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on commercial projects and startups
+- 💬 Ask me about React
+- 📫 How to reach me: [nickng852@gmail.com](nickng852@gmail.com)
+
+<br />
+
+<h3>My Tech Stack</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,4 +45,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/nickng852/nickng852/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <a href="https://github.com/Platane/snk">
+    <img src="https://raw.githubusercontent.com/nickng852/nickng852/output/github-contribution-grid-snake-dark.svg" />
+  </a>
+</p>
