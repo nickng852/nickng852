@@ -34,3 +34,5 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,emotion,styledcomponents,materialui,bootstrap,react,nextjs,jquery,nodejs,express,prisma,git,github,bitbucket,vite,npm,pnpm,linux,ubuntu,nginx,vercel,firebase,heroku,wordpress,figma,ps,pr" />
   </a>
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/nickng852/nickng852/output/github-contribution-grid-snake-dark.svg)
