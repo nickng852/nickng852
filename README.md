@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
+
+<p align="center">
+  <a href="https://shields.io">
+    <img src="https://img.shields.io/badge/made_in-hong_kong-blue" />
+  </a>
+
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=nickng852&label=profile+views&color=brightgreen&abbreviated=true" />
+  </a>
+</p>
+
 <h3>Tech Stack</h3>
 
 <p align="center">
