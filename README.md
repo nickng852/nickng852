@@ -50,3 +50,6 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/nickng852/nickng852/output/github-contribution-grid-snake-dark.svg" />
   </a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
