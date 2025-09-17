@@ -52,36 +52,5 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Tuesday                  41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Wednesday                59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Thursday                 46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Friday                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Saturday                 129 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Sunday                   219 commits         █████████░░░░░░░░░░░░░░░░   34.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
