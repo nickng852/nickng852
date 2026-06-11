@@ -52,16 +52,16 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   68 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Tuesday                  36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Wednesday                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Thursday                 50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Saturday                 88 commits          █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Sunday                   135 commits         ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+Monday                   47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Tuesday                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Wednesday                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Thursday                 46 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Friday                   47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Saturday                 47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Sunday                   47 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 ```
 
 
