@@ -55,13 +55,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   88 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Tuesday                  42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Wednesday                59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Friday                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Saturday                 129 commits         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Sunday                   219 commits         ████████░░░░░░░░░░░░░░░░░   33.80 % 
+Monday                   68 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Tuesday                  36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Wednesday                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Thursday                 50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Friday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Saturday                 88 commits          █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Sunday                   135 commits         ███████░░░░░░░░░░░░░░░░░░   28.07 % 
 ```
 
 
